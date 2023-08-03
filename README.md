@@ -2,15 +2,15 @@
 <video src="./Untitled.mp4" >s</video>
 ## Hi there 👋
 
-<a href="./dell c drive backup/Downloads/12.png" style="text-decoration: none; background-color: #f2f2f2; color: #007bff; padding: 5px 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;"
+<!--<a href="./dell c drive backup/Downloads/12.png" style="text-decoration: none; background-color: #f2f2f2; color: #007bff; padding: 5px 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;"
     onmouseover="this.style.backgroundColor='#007bff'; this.style.color='#fff'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';"
     onmouseout="this.style.backgroundColor='#f2f2f2'; this.style.color='#007bff'; this.style.boxShadow='0 2px 5px rgba(0, 0, 0, 0.1)';">
     Certificate
   </a>
 
-<!-- **pavan731/pavan731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **pavan731/pavan731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,5 +19,5 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 
