@@ -1,23 +1,14 @@
+👋 Hi, I'm Pavan Rayabagi — a passionate DevOps Engineer and lifelong learner.
 
-<video src="./Untitled.mp4" >s</video>
-## Hi there 👋
+🚀 Currently diving deep into:
+- **Languages & Tools**: Java, SQL, Linux, Git, JUnit, Maven
+- **CI/CD & Automation**: Jenkins, Ansible
+- **Containers & Orchestration**: Docker, Kubernetes
 
-<!--<a href="./dell c drive backup/Downloads/12.png" style="text-decoration: none; background-color: #f2f2f2; color: #007bff; padding: 5px 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;"
-    onmouseover="this.style.backgroundColor='#007bff'; this.style.color='#fff'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';"
-    onmouseout="this.style.backgroundColor='#f2f2f2'; this.style.color='#007bff'; this.style.boxShadow='0 2px 5px rgba(0, 0, 0, 0.1)';">
-    Certificate
-  </a>
+🔧 I love building scalable pipelines, automating infrastructure, and exploring cloud-native technologies.
 
- **pavan731/pavan731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Based in Bangalore | 🌐 [Portfolio](https://pavanrayabagi1.w3spaces.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pavan-rayabagi-a397951a5/) • [Twitter](https://twitter.com/pavan_rayabagi)
 
-Here are some ideas to get you started: 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+💡 Always open to collaboration, learning, and sharing knowledge. Let’s connect!
 
