@@ -1,7 +1,7 @@
 👋 Hi, I'm Pavan Rayabagi — a passionate DevOps Engineer and lifelong learner.
 
 🚀 Currently diving deep into:
-- **Languages & Tools**: Java, SQL, Linux, Git, JUnit, Maven
+- **Languages & Tools**: Java, SQL, Linux, Git
 - **CI/CD & Automation**: Jenkins, Ansible
 - **Containers & Orchestration**: Docker, Kubernetes
 
